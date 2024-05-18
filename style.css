@@ -132,6 +132,14 @@ p {
   width: 100%;
 }
 
+.tutor {
+  text-align: center;
+}
+
+.deskripsi {
+  text-align: center;
+}
+
 .tutors-list {
   width: 100%;
   position: relative;
