@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 * {
   text-decoration: none;
   margin: 0px;
@@ -26,6 +30,10 @@ body {
 
 .menu {
   float: right;
+}
+
+.menu ul li a.active {
+  color: #364f6b;
 }
 
 nav {
@@ -59,7 +67,7 @@ nav ul li a {
   padding: 0px 16px 0px 16px;
   text-decoration: none;
 }
-= nav ul li a:hover {
+nav ul li a:hover {
   text-decoration: underline;
 }
 
