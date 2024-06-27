@@ -67,6 +67,7 @@ nav ul li a {
   padding: 0px 16px 0px 16px;
   text-decoration: none;
 }
+
 nav ul li a:hover {
   text-decoration: underline;
 }
